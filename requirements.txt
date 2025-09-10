@@ -1,0 +1,8 @@
+pandas
+numpy
+ta
+tqdm
+tensorflow
+scikit-learn
+python-binance
+python-telegram-bot
